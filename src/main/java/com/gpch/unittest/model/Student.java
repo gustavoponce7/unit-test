@@ -23,4 +23,6 @@ public class Student {
     private String name;
     private String lastName;
     private boolean active;
+    private String nickname;
+    private String nickname2;
 }
